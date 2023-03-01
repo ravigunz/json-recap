@@ -1,0 +1,19 @@
+{
+    "teacher":{
+        "firstName": "Ravi",
+        "lastName": "Gunasena",
+        "address":{
+            "addressLine1": "214/49",
+            "addressLine2": "Kottala",
+            "city": "Veyangoda",
+            "postalCode": "11100",
+            "country": "Sri Lanka"
+        },
+        "skills":[
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "ReactJS"
+        ]
+    }
+}
